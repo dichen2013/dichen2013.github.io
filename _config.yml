@@ -1,0 +1,16 @@
+# Site settings
+title: Di Chen
+email: 1123691668@qq.com
+description: "Web Developer"
+baseurl: ""
+url: "https://dichen2013.github.io"
+company_url: "www.jiejieguai.com"
+github_username:  dichen2013
+
+# Build settings
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
